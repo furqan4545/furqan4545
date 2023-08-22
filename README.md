@@ -5,7 +5,7 @@
 - 🌱 I’m always learning advanced state-of-the-art deep learning models and also expanding my scope in programming. i.e. including more tools in my arsenal.  
 - 👀 I have helped many startups in terms of building their product and scaling it up to support as many users as possible. 
 - 📫 Wanna reach out to me? Just hit this link {https://www.linkedin.com/in/furqan4545/}
-- 👀 My Email: Furqan.ali9500@gmail.com
+- 👀 My Email: furqan@varsole.com
 
 <!---
 furqan4545/furqan4545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
