@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Furqan Ali
-- 👀 I like working on the cutting-edge technologies and building interesting products.
+- 👀 I work on the cutting-edge technologies and build interesting products.
 - 👀 On a mission to automate boring jobs in the world using technology and science. 
 - 🌱 Building things from scratch to production. 
 - 🌱 Can code in any language of the world.
