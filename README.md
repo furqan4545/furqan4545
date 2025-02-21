@@ -6,7 +6,7 @@
 - 🌱 Always learning advanced state-of-the-art deep learning models and also expanding my scope in the world of entrepreneurship.  
 - 👀 Helped many startups in terms of building their product and scaling it up. 
 - 📫 Follow on linkedin to stay upto date regarding what we are upto next {https://www.linkedin.com/in/iamfurqanalii/}
-- 👀 Wanna reach out? => message me on X.com (@iamfurqanalii)
+- 👀 Wanna reach out? => DM on X.com (@iamfurqanalii)
 
 <!---
 furqan4545/furqan4545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
